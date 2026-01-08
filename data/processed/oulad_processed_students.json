@@ -1,0 +1,5153 @@
+[
+  {
+    "student_id": "11391",
+    "profile": {
+      "student_id": "11391",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "HE Qualification",
+      "age_band": "55<=",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 240,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 78.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 85.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 80.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 85.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 82.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "28400",
+    "profile": {
+      "student_id": "28400",
+      "gender": "F",
+      "region": "Scotland",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 70.0,
+        "date_submitted": 22.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 70.0,
+        "date_submitted": 121.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 64.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 60.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "30268",
+    "profile": {
+      "student_id": "30268",
+      "gender": "F",
+      "region": "North Western Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "Y"
+    },
+    "interactions": [],
+    "estimated_style": "visual",
+    "estimated_level": "beginner",
+    "total_interactions": 0
+  },
+  {
+    "student_id": "31604",
+    "profile": {
+      "student_id": "31604",
+      "gender": "F",
+      "region": "South East Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 71.0,
+        "date_submitted": 51.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 88.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "32885",
+    "profile": {
+      "student_id": "32885",
+      "gender": "F",
+      "region": "West Midlands Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 69.0,
+        "date_submitted": 26.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 30.0,
+        "date_submitted": 75.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 63.0,
+        "date_submitted": 124.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 35.0,
+        "date_submitted": 181.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 222.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "38053",
+    "profile": {
+      "student_id": "38053",
+      "gender": "M",
+      "region": "Wales",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 79.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 69.0,
+        "date_submitted": 64.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 50.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 68.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "45462",
+    "profile": {
+      "student_id": "45462",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 70.0,
+        "date_submitted": 20.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 65.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 62.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 75.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 68.0,
+        "date_submitted": 216.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "45642",
+    "profile": {
+      "student_id": "45642",
+      "gender": "F",
+      "region": "North Western Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 72.0,
+        "date_submitted": 57.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 72.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 73.0,
+        "date_submitted": 227.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "52130",
+    "profile": {
+      "student_id": "52130",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 90,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 72.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 70.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "53025",
+    "profile": {
+      "student_id": "53025",
+      "gender": "M",
+      "region": "North Region",
+      "highest_education": "Post Graduate Qualification",
+      "age_band": "55<=",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 71.0,
+        "date_submitted": 9.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 80.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 114.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 80.0,
+        "date_submitted": 161.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 81.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "57506",
+    "profile": {
+      "student_id": "57506",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 68.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 76.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 80.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 68.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "58873",
+    "profile": {
+      "student_id": "58873",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 73.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 74.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 68.0,
+        "date_submitted": 119.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 78.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "59185",
+    "profile": {
+      "student_id": "59185",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 67.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 71.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 88.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 89.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "62155",
+    "profile": {
+      "student_id": "62155",
+      "gender": "F",
+      "region": "North Western Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 73.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 85.0,
+        "date_submitted": 50.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 114.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 70.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 77.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "63400",
+    "profile": {
+      "student_id": "63400",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 83.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 42.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 76.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 79.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "65002",
+    "profile": {
+      "student_id": "65002",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 66.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 68.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 66.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 51.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 4
+  },
+  {
+    "student_id": "70464",
+    "profile": {
+      "student_id": "70464",
+      "gender": "F",
+      "region": "West Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 59.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 60.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 60.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 61.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 38.0,
+        "date_submitted": 198.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "71361",
+    "profile": {
+      "student_id": "71361",
+      "gender": "M",
+      "region": "Ireland",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 82.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 86.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 82.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 77.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "74372",
+    "profile": {
+      "student_id": "74372",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 150,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 60.0,
+        "date_submitted": 22.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 18.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 67.0,
+        "date_submitted": 120.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 49.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 4
+  },
+  {
+    "student_id": "75091",
+    "profile": {
+      "student_id": "75091",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 67.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 67.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 65.0,
+        "date_submitted": 170.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 65.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "77367",
+    "profile": {
+      "student_id": "77367",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 73.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 76.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 72.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 67.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 64.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "91265",
+    "profile": {
+      "student_id": "91265",
+      "gender": "M",
+      "region": "North Western Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 21.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 74.0,
+        "date_submitted": 64.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 122.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 170.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 57.0,
+        "date_submitted": 220.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "94961",
+    "profile": {
+      "student_id": "94961",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 74.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 74.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 67.0,
+        "date_submitted": 51.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 57.0,
+        "date_submitted": 122.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 65.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 55.0,
+        "date_submitted": 211.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "intermediate",
+    "total_interactions": 6
+  },
+  {
+    "student_id": "98094",
+    "profile": {
+      "student_id": "98094",
+      "gender": "M",
+      "region": "Wales",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 62.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 59.0,
+        "date_submitted": 49.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 59.0,
+        "date_submitted": 106.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 61.0,
+        "date_submitted": 157.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 62.0,
+        "date_submitted": 202.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "100893",
+    "profile": {
+      "student_id": "100893",
+      "gender": "M",
+      "region": "Yorkshire Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 63.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 50.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 71.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 74.0,
+        "date_submitted": 171.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 66.0,
+        "date_submitted": 218.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "101781",
+    "profile": {
+      "student_id": "101781",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 84.0,
+        "date_submitted": 16.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 64.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 66.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 74.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "102806",
+    "profile": {
+      "student_id": "102806",
+      "gender": "M",
+      "region": "North Western Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 80.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 86.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 86.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 78.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 60.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "102952",
+    "profile": {
+      "student_id": "102952",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 70.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 83.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 81.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "104476",
+    "profile": {
+      "student_id": "104476",
+      "gender": "M",
+      "region": "Ireland",
+      "highest_education": "Post Graduate Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 30.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 78.0,
+        "date_submitted": 62.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 80.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 77.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 78.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "106247",
+    "profile": {
+      "student_id": "106247",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 67.0,
+        "date_submitted": 32.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 64.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 47.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 3
+  },
+  {
+    "student_id": "106577",
+    "profile": {
+      "student_id": "106577",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 57.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 51.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 56.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 38.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 65.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "110175",
+    "profile": {
+      "student_id": "110175",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 66.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 61.0,
+        "date_submitted": 55.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 68.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 53.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 69.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "111717",
+    "profile": {
+      "student_id": "111717",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 80.0,
+        "date_submitted": 10.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 80.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 83.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 3
+  },
+  {
+    "student_id": "113295",
+    "profile": {
+      "student_id": "113295",
+      "gender": "M",
+      "region": "Yorkshire Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 81.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 77.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 77.0,
+        "date_submitted": 113.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 75.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 78.0,
+        "date_submitted": 222.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "114017",
+    "profile": {
+      "student_id": "114017",
+      "gender": "F",
+      "region": "North Region",
+      "highest_education": "Post Graduate Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 66.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 76.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 72.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 71.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "114999",
+    "profile": {
+      "student_id": "114999",
+      "gender": "M",
+      "region": "Yorkshire Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 74.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 79.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 77.0,
+        "date_submitted": 123.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 80.0,
+        "date_submitted": 171.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 54.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "116541",
+    "profile": {
+      "student_id": "116541",
+      "gender": "M",
+      "region": "Wales",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 75.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 60.0,
+        "date_submitted": 131.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 60.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 50.0,
+        "date_submitted": 220.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "116692",
+    "profile": {
+      "student_id": "116692",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 16.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 77.0,
+        "date_submitted": 47.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 72.0,
+        "date_submitted": 114.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 78.0,
+        "date_submitted": 163.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 72.0,
+        "date_submitted": 208.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "118983",
+    "profile": {
+      "student_id": "118983",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 73.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 63.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 65.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 63.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 45.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "123044",
+    "profile": {
+      "student_id": "123044",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 25.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 72.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 72.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 70.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 68.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "127582",
+    "profile": {
+      "student_id": "127582",
+      "gender": "F",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 180,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 69.0,
+        "date_submitted": 26.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 71.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 75.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 67.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "129955",
+    "profile": {
+      "student_id": "129955",
+      "gender": "M",
+      "region": "West Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 85.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 82.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 76.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 82.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 76.0,
+        "date_submitted": 127.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "advanced",
+    "total_interactions": 6
+  },
+  {
+    "student_id": "132976",
+    "profile": {
+      "student_id": "132976",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 63.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 65.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 72.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 62.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "134143",
+    "profile": {
+      "student_id": "134143",
+      "gender": "F",
+      "region": "South East Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 87.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 83.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 85.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 86.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 81.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "135335",
+    "profile": {
+      "student_id": "135335",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 180,
+      "disability": "N"
+    },
+    "interactions": [],
+    "estimated_style": "visual",
+    "estimated_level": "beginner",
+    "total_interactions": 0
+  },
+  {
+    "student_id": "135400",
+    "profile": {
+      "student_id": "135400",
+      "gender": "F",
+      "region": "South East Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "Y"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 57.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 51.0,
+        "date_submitted": 49.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 47.0,
+        "date_submitted": 62.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 56.0,
+        "date_submitted": 120.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 46.0,
+        "date_submitted": 180.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 43.0,
+        "date_submitted": 227.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "beginner",
+    "total_interactions": 7
+  },
+  {
+    "student_id": "137873",
+    "profile": {
+      "student_id": "137873",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 72.0,
+        "date_submitted": 15.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 81.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 83.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 78.0,
+        "date_submitted": 161.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 87.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "141355",
+    "profile": {
+      "student_id": "141355",
+      "gender": "F",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 240,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 77.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 74.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 70.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 71.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 71.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "141377",
+    "profile": {
+      "student_id": "141377",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 345,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 65.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 52.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 45.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 39.0,
+        "date_submitted": 125.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 53.0,
+        "date_submitted": 176.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 39.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "beginner",
+    "total_interactions": 6
+  },
+  {
+    "student_id": "142326",
+    "profile": {
+      "student_id": "142326",
+      "gender": "F",
+      "region": "North Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 65.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 76.0,
+        "date_submitted": 65.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 71.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 82.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "144801",
+    "profile": {
+      "student_id": "144801",
+      "gender": "F",
+      "region": "South Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 61.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 64.0,
+        "date_submitted": 56.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 65.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 75.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 79.0,
+        "date_submitted": 216.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "145130",
+    "profile": {
+      "student_id": "145130",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 37.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 49.0,
+        "date_submitted": 127.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 48.0,
+        "date_submitted": 177.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 63.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "146188",
+    "profile": {
+      "student_id": "146188",
+      "gender": "F",
+      "region": "West Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "Y"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 52.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 53.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 62.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 43.0,
+        "date_submitted": 183.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 40.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "147756",
+    "profile": {
+      "student_id": "147756",
+      "gender": "M",
+      "region": "North Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 77.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 69.0,
+        "date_submitted": 26.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 72.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 32.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 123.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 82.0,
+        "date_submitted": 138.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 71.0,
+        "date_submitted": 172.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 72.0,
+        "date_submitted": 178.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 68.0,
+        "date_submitted": 219.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "intermediate",
+    "total_interactions": 9
+  },
+  {
+    "student_id": "147793",
+    "profile": {
+      "student_id": "147793",
+      "gender": "F",
+      "region": "North Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 90,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 52.0,
+        "date_submitted": 32.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 1
+  },
+  {
+    "student_id": "148993",
+    "profile": {
+      "student_id": "148993",
+      "gender": "F",
+      "region": "North Western Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "Y"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 86.0,
+        "date_submitted": 21.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 68.0,
+        "date_submitted": 25.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 85.0,
+        "date_submitted": 59.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 70.0,
+        "date_submitted": 63.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 122.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 90.0,
+        "date_submitted": 124.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 73.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 86.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "intermediate",
+    "total_interactions": 8
+  },
+  {
+    "student_id": "151358",
+    "profile": {
+      "student_id": "151358",
+      "gender": "F",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 150,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 54.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 48.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 45.0,
+        "date_submitted": 108.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 53.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 50.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "155550",
+    "profile": {
+      "student_id": "155550",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 420,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 68.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 61.0,
+        "date_submitted": 170.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 65.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "155854",
+    "profile": {
+      "student_id": "155854",
+      "gender": "F",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 82.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 79.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 79.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 81.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 78.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "155984",
+    "profile": {
+      "student_id": "155984",
+      "gender": "F",
+      "region": "East Anglian Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 67.0,
+        "date_submitted": 20.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 76.0,
+        "date_submitted": 55.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 75.0,
+        "date_submitted": 90.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 78.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 83.0,
+        "date_submitted": 178.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 83.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "intermediate",
+    "total_interactions": 7
+  },
+  {
+    "student_id": "157568",
+    "profile": {
+      "student_id": "157568",
+      "gender": "F",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 79.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 81.0,
+        "date_submitted": 66.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 138.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 60.0,
+        "date_submitted": 181.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 59.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "159954",
+    "profile": {
+      "student_id": "159954",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 65.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 68.0,
+        "date_submitted": -1.0,
+        "is_banked": 1.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 65.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 75.0,
+        "date_submitted": 129.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "164259",
+    "profile": {
+      "student_id": "164259",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 82.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 58.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 168.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 68.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "167906",
+    "profile": {
+      "student_id": "167906",
+      "gender": "F",
+      "region": "Yorkshire Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 60.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 58.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 82.0,
+        "date_submitted": 124.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 72.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "168936",
+    "profile": {
+      "student_id": "168936",
+      "gender": "F",
+      "region": "West Midlands Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 79.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 62.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 54.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 61.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "172112",
+    "profile": {
+      "student_id": "172112",
+      "gender": "M",
+      "region": "Ireland",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 60.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 67.0,
+        "date_submitted": 68.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 74.0,
+        "date_submitted": 124.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 72.0,
+        "date_submitted": 180.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "172797",
+    "profile": {
+      "student_id": "172797",
+      "gender": "F",
+      "region": "Ireland",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 60.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 54.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 67.0,
+        "date_submitted": 119.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 66.0,
+        "date_submitted": 172.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 60.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "174782",
+    "profile": {
+      "student_id": "174782",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "HE Qualification",
+      "age_band": "55<=",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 83.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 79.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 77.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 83.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 80.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "175392",
+    "profile": {
+      "student_id": "175392",
+      "gender": "M",
+      "region": "North Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 16.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 74.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 82.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 93.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 78.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "175932",
+    "profile": {
+      "student_id": "175932",
+      "gender": "M",
+      "region": "North Western Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 73.0,
+        "date_submitted": 57.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 119.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 82.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 82.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "175991",
+    "profile": {
+      "student_id": "175991",
+      "gender": "F",
+      "region": "North Western Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 180,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 51.0,
+        "date_submitted": 15.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 28.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 42.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 32.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 35.0,
+        "date_submitted": 239.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "180753",
+    "profile": {
+      "student_id": "180753",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 61.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 59.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 44.0,
+        "date_submitted": 113.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 59.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 44.0,
+        "date_submitted": 209.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "181316",
+    "profile": {
+      "student_id": "181316",
+      "gender": "F",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 20.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 1
+  },
+  {
+    "student_id": "183096",
+    "profile": {
+      "student_id": "183096",
+      "gender": "F",
+      "region": "South West Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 57.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 53.0,
+        "date_submitted": 57.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 51.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 52.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 57.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "183947",
+    "profile": {
+      "student_id": "183947",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 180,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 67.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 33.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 48.0,
+        "date_submitted": 118.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 54.0,
+        "date_submitted": 170.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 43.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "184271",
+    "profile": {
+      "student_id": "184271",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 170,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 65.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 62.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 65.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 53.0,
+        "date_submitted": 158.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 54.0,
+        "date_submitted": 212.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "185439",
+    "profile": {
+      "student_id": "185439",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 74.0,
+        "date_submitted": 24.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 1
+  },
+  {
+    "student_id": "186149",
+    "profile": {
+      "student_id": "186149",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 33.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 81.0,
+        "date_submitted": 68.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 78.0,
+        "date_submitted": 127.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 55.0,
+        "date_submitted": 171.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 81.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "187100",
+    "profile": {
+      "student_id": "187100",
+      "gender": "M",
+      "region": "South East Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 88.0,
+        "date_submitted": 17.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 90.0,
+        "date_submitted": 52.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 88.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 90.0,
+        "date_submitted": 164.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 90.0,
+        "date_submitted": 213.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "188278",
+    "profile": {
+      "student_id": "188278",
+      "gender": "M",
+      "region": "Yorkshire Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 79.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 73.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 63.0,
+        "date_submitted": 121.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 72.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 67.0,
+        "date_submitted": 216.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "intermediate",
+    "total_interactions": 6
+  },
+  {
+    "student_id": "189879",
+    "profile": {
+      "student_id": "189879",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 76.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 85.0,
+        "date_submitted": 60.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 83.0,
+        "date_submitted": 114.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 83.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 70.0,
+        "date_submitted": 209.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "192183",
+    "profile": {
+      "student_id": "192183",
+      "gender": "F",
+      "region": "South West Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 58.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 68.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 75.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 58.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "195262",
+    "profile": {
+      "student_id": "195262",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 50.0,
+        "date_submitted": 118.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 1
+  },
+  {
+    "student_id": "200860",
+    "profile": {
+      "student_id": "200860",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 69.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 58.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 59.0,
+        "date_submitted": 114.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 53.0,
+        "date_submitted": 159.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 33.0,
+        "date_submitted": 217.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "202635",
+    "profile": {
+      "student_id": "202635",
+      "gender": "F",
+      "region": "Wales",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 68.0,
+        "date_submitted": 27.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 70.0,
+        "date_submitted": 63.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 62.0,
+        "date_submitted": 131.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 3
+  },
+  {
+    "student_id": "205350",
+    "profile": {
+      "student_id": "205350",
+      "gender": "M",
+      "region": "South West Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 75.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 59.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 87.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 65.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 75.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "205719",
+    "profile": {
+      "student_id": "205719",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 90,
+      "disability": "Y"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 67.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 63.0,
+        "date_submitted": 58.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 40.0,
+        "date_submitted": 124.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 3
+  },
+  {
+    "student_id": "227499",
+    "profile": {
+      "student_id": "227499",
+      "gender": "F",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 84.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 83.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 84.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 84.0,
+        "date_submitted": 163.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 83.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "advanced",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "227517",
+    "profile": {
+      "student_id": "227517",
+      "gender": "M",
+      "region": "Ireland",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 180,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 63.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 67.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 66.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 63.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 54.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "228082",
+    "profile": {
+      "student_id": "228082",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 58.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 77.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 77.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 82.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "228222",
+    "profile": {
+      "student_id": "228222",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "Lower Than A Level",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 71.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 45.0,
+        "date_submitted": 61.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 67.0,
+        "date_submitted": 131.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 66.0,
+        "date_submitted": 179.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 60.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "229179",
+    "profile": {
+      "student_id": "229179",
+      "gender": "M",
+      "region": "West Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 64.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 68.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 70.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 73.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 55.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "229361",
+    "profile": {
+      "student_id": "229361",
+      "gender": "M",
+      "region": "East Midlands Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 81.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 76.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 75.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 82.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 76.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "231554",
+    "profile": {
+      "student_id": "231554",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 240,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 80.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 62.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 63.0,
+        "date_submitted": 118.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 66.0,
+        "date_submitted": 216.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 4
+  },
+  {
+    "student_id": "235507",
+    "profile": {
+      "student_id": "235507",
+      "gender": "M",
+      "region": "Yorkshire Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 240,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 65.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1758.0",
+        "score": 62.0,
+        "date_submitted": 25.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1759.0",
+        "score": 30.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1760.0",
+        "score": 69.0,
+        "date_submitted": 116.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1761.0",
+        "score": 60.0,
+        "date_submitted": 173.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1762.0",
+        "score": 61.0,
+        "date_submitted": 214.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "visual",
+    "estimated_level": "beginner",
+    "total_interactions": 6
+  },
+  {
+    "student_id": "236284",
+    "profile": {
+      "student_id": "236284",
+      "gender": "M",
+      "region": "Scotland",
+      "highest_education": "Post Graduate Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 23.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 84.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 83.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 78.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 60.0,
+        "date_submitted": 219.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "238007",
+    "profile": {
+      "student_id": "238007",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "HE Qualification",
+      "age_band": "55<=",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 83.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 73.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 68.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 86.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 86.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "240712",
+    "profile": {
+      "student_id": "240712",
+      "gender": "M",
+      "region": "London Region",
+      "highest_education": "HE Qualification",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 80,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 82.0,
+        "date_submitted": 19.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 81.0,
+        "date_submitted": 54.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 80.0,
+        "date_submitted": 117.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 70.0,
+        "date_submitted": 166.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 66.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "240884",
+    "profile": {
+      "student_id": "240884",
+      "gender": "M",
+      "region": "South Region",
+      "highest_education": "A Level or Equivalent",
+      "age_band": "0-35",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 120,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 74.0,
+        "date_submitted": 18.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 54.0,
+        "date_submitted": 53.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 56.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 54.0,
+        "date_submitted": 165.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 54.0,
+        "date_submitted": 210.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "beginner",
+    "total_interactions": 5
+  },
+  {
+    "student_id": "241649",
+    "profile": {
+      "student_id": "241649",
+      "gender": "M",
+      "region": "East Anglian Region",
+      "highest_education": "HE Qualification",
+      "age_band": "35-55",
+      "num_of_prev_attempts": 0,
+      "studied_credits": 60,
+      "disability": "N"
+    },
+    "interactions": [
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1752.0",
+        "score": 85.0,
+        "date_submitted": 16.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1753.0",
+        "score": 66.0,
+        "date_submitted": 42.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1754.0",
+        "score": 80.0,
+        "date_submitted": 115.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1755.0",
+        "score": 78.0,
+        "date_submitted": 153.0,
+        "is_banked": 0.0
+      },
+      {
+        "type": "quiz",
+        "resource_id": "assessment_1756.0",
+        "score": 85.0,
+        "date_submitted": 215.0,
+        "is_banked": 0.0
+      }
+    ],
+    "estimated_style": "reading",
+    "estimated_level": "intermediate",
+    "total_interactions": 5
+  }
+]
